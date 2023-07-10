@@ -7,7 +7,5 @@ This repository contains the coursework and additional learning as part of Deep 
 
 * Assignments:
 
+    * PyTorch Basics: [Notebooks](./pytorch-basics-coursework/)
     *
-    *
-
-*
