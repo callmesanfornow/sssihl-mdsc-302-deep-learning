@@ -2,10 +2,6 @@
  
 This repository contains the coursework and additional learning as part of Deep Learning Lab.
 
+## Assignments:
 
-* Basics : [Notebooks](./PyTorch-basics/)
-
-* Assignments:
-
-    * PyTorch Basics: [Notebooks](./pytorch-basics-coursework/)
-    *
+* PyTorch Basics: [Notebooks](./pytorch-basics-coursework/)
