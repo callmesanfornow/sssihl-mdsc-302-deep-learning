@@ -4,4 +4,5 @@ This repository contains the coursework and additional learning as part of Deep 
 
 ## Assignments:
 
-* PyTorch Basics: [Notebooks](./pytorch-basics-coursework/)
+* [PyTorch Basics](./pytorch-basics-coursework/README.md)
+* [Algorithms](./algorithm-implementation/README.md)
